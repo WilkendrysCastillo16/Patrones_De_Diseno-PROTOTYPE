@@ -1,0 +1,6 @@
+C:\Users\felix\Desktop\Wilkendry Castillo (4)\Programacion ll\Tareas Realizadas en C#\Programacion_II_Tarea_3\Programacion_II_Tarea_3\bin\Debug\Programacion_II_Tarea_3.exe.config
+C:\Users\felix\Desktop\Wilkendry Castillo (4)\Programacion ll\Tareas Realizadas en C#\Programacion_II_Tarea_3\Programacion_II_Tarea_3\obj\Debug\Programacion_II_Tarea_3.csprojResolveAssemblyReference.cache
+C:\Users\felix\Desktop\Wilkendry Castillo (4)\Programacion ll\Tareas Realizadas en C#\Programacion_II_Tarea_3\Programacion_II_Tarea_3\bin\Debug\Programacion_II_Tarea_3.exe
+C:\Users\felix\Desktop\Wilkendry Castillo (4)\Programacion ll\Tareas Realizadas en C#\Programacion_II_Tarea_3\Programacion_II_Tarea_3\bin\Debug\Programacion_II_Tarea_3.pdb
+C:\Users\felix\Desktop\Wilkendry Castillo (4)\Programacion ll\Tareas Realizadas en C#\Programacion_II_Tarea_3\Programacion_II_Tarea_3\obj\Debug\Programacion_II_Tarea_3.exe
+C:\Users\felix\Desktop\Wilkendry Castillo (4)\Programacion ll\Tareas Realizadas en C#\Programacion_II_Tarea_3\Programacion_II_Tarea_3\obj\Debug\Programacion_II_Tarea_3.pdb
